@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+## When with Rome: Alexa L. Rome and the Kingdom of the (not so) Crystal Skulls 
 
-You can use the [editor on GitHub](https://github.com/alexarome/wheninrome/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome!  My name is Alexa Leigh Rome.  I'm a Peruvian-American archaeologist interested in ancient and modern health, ancient DNA (aDNA), prehistoric Americas, modern Indigenous issues and rural health!  I've worked on field projects in the USA (southwest and northeast), Malawi, and in the Lima, Chachapoyas, Iquitos regions of Peru.  Additionally, I've worked on research projects in labs and museums, including with MALAAP/MEMSAP (formerly Emory University, now Yale University), Lindo Ancient DNA Laboratory (Emory University), Duraisingh Laboratory (Harvard University), IAIS (Insitute for American Indian Studies), and others!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alexarome/wheninrome/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This blog is intended to chronicle some of my field experiences, highlight research of interest, and help share opportunities for the public to get involved in archaeology, cultural heritage, and preservation.  Thanks for visiting!
