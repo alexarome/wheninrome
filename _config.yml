@@ -1,3 +1,15 @@
 theme: jekyll-theme-minimal
-title: When In Rome
+title: When with Rome
 description: Alexa L. Rome and the Kingdom of the (not so) Crystal Skulls
+
+author: Alexa L. Rome
+email: alexaleighrome@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  I am a biological anthropology student with broad 
+  interests in modern and ancient genomics, infectious 
+  disease, and the prehistoric Americas!
+# social links
+twitter_username: your-twitter-handle
+github_username:  your-github-handle
+
+show_excerpts: true # set to false to remove excerpts on the homepage
